@@ -2,4 +2,4 @@ exclude:
   global:
     - testsuite/
     - examples/
-    - mis
+    - misc/
