@@ -1,6 +1,5 @@
 exclude:
-    global:
-        - testsuite/
-        - examples/
-        - misc/
-        
+  global:
+    - testsuite/
+    - examples/
+    - mis
