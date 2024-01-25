@@ -1,5 +1,7 @@
+version: v1.22.2
+
 exclude:
   global:
-    - testsuite/
-    - examples/
-    - misc/
+    - testsuite/**
+    - examples/**
+    - misc/**
